@@ -1,4 +1,4 @@
-# Praktikum_TG_B_Kelompok_10
+# Final Praktikum Kelompok 10
 
 Hasil Praktikum 1 dan 2 Mata Kuliah Teori Graf oleh Kelompok 10
 
@@ -12,14 +12,14 @@ Hasil Praktikum 1 dan 2 Mata Kuliah Teori Graf oleh Kelompok 10
 
 ## Daftar Isi
 - [Praktikum 1](#praktikum-1)
-  - [Gambar Soal](![soal-1.png])
+  - [Soal Praktikum 1](![soal-1.png])
   - [Penjelasan Singkat Permasalahan Dengan Backtracking](#penjelasan-singkat-permasalahan-dengan-backtracking)
   - [Penjelasan Singkat Permasalahan Dengan Heuristic](#penjelasan-singkat-permasalahan-dengan-heuristic)
   - [Penyelesain Praktikum 1 Dengan Backtracking](#penyelesaian-praktikum-2-dengan-backtracking)
   - [Penyelesain Praktikum 1 Dengan Heuristic](#penyelesaian-praktikum-2-dengan-heuristic)
   - [Analisis](#analisis)
 - [Praktikum 2](#praktikum-2)
-  - [Soal](#soal-praktikum-2) 
+  - [Soal Praktikum 2](#soal-praktikum-2) 
   - [Penjelasan Singkat LMIS](#penjelasan-singkat-LMIS)
   - [Penyelesaian Praktikum 2](#penyelesaian-praktikum-2)
   - [Analisis](#analisis)
