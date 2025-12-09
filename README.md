@@ -186,7 +186,7 @@ Fungsi ini menggunakan Matplotlib untuk membuat visualisasi dari solusi tur kuda
 
 #### Hasil Ouput Program Backtracking
 
-![image]Figure_1.png
+![image](Figure_1.png)
 
 
 ### Penyelesaian Praktikum 1 Dengan Heuristic
@@ -300,7 +300,7 @@ Program utama yang mencoba menghasilkan tur kuda catur yang menutupi seluruh pap
 
 #### Hasil Output Program Heuristic
 
-![image]Figure_2.png
+![image](Figure_2.png)
 
 
 ### Analisis Cara 
